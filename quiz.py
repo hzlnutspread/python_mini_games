@@ -82,3 +82,4 @@ while play_again():
     new_game()
 
 print("\nThanks for playing!")
+

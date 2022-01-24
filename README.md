@@ -2,3 +2,6 @@
 
 Rock paper scissors
 - With this game I practiced...
+
+Quiz
+- With this game I practiced...
